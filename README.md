@@ -14,3 +14,5 @@ Data Analysis with: Numpy Pandas Matplotlib Seaborn
 Machine Learning with: LogisticRegression with Scikit-Learn
 
 NB: CSV file has been added for more information.
+
+NB: Currently brushng up on Statistics terms, will update after that.
