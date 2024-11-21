@@ -1,18 +1,22 @@
 # ML_Logistic_Regression
+## This is a simple logistic Regression Project as part of on-going learning.
 
-This is a simple linear Regression Project as part of on going learning.
-Description: The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS 
-Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough 
-lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
-In this challenge, we ask you to build a predictive model that answers the question: 
-“what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+## Description: 
+* The sinking of the Titanic is one of the most infamous shipwrecks in history.
+* On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS
+* Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough 
+* lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+* While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+* In this challenge, we ask you to build a predictive model that answers the question: 
+* “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-Data Analysis with: Numpy Pandas Matplotlib Seaborn
+### Data Analysis with: 
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
 
-Machine Learning with: LogisticRegression with Scikit-Learn
+### Machine Learning with: 
+* LogisticRegression with Scikit-Learn
 
-NB: CSV file has been added for more information.
-
-NB: Currently brushng up on Statistics terms, will update after that.
+* NB: CSV file has been added for more information.
